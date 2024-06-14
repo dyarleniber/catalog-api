@@ -5,9 +5,10 @@
 - **Admin**: The admin is the person who manages all the resources (users, categories, retailers, catalogs, etc.).
 - **Editor**: The editor is the person who creates catalogs to be published/approved.
 - **Consumer**: The user is the person who consumes the catalogs (and all other resources).
-- **System**: The system is the API itself.
 
 ## Use Cases
+
+> This is a initial draft of the use cases. It contains a detailed list of the use cases following the Clean Architecture definition. That is, it is not meant to be a high level description of the system as the traditional use cases from the UML usually are.
 
 ### Admin
 
@@ -356,4 +357,46 @@
         - Returns an error if the catalog is not for the provided location (country code and city id).
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
